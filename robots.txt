@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dastudios.pages.dev/sitemap_index.xml
